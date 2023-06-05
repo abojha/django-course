@@ -1,0 +1,2 @@
+This is a tested file.
+Used for testing the static folder

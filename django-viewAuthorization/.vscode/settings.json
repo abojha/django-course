@@ -1,0 +1,6 @@
+{
+    "settings" : {
+        "python.terminal.activateEnvInCurrentTerminal":true,
+        "python.defaultInterpreterPath": "/f/django Course/django-viewAuthorization/\\django Course\\django-viewAuthorization\\myEnv/Scripts/python"
+    }
+}
